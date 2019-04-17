@@ -13,4 +13,4 @@ const AgeIsValid = Number.isInteger(currentAge)
 
 const randomNumber = Math.random() * 20
 
-const randomInteger = Math.floor(Math.random(randomInteger))
+const randomInteger =
